@@ -19,5 +19,5 @@ Publications
   - Appeared in Discrete Math., vol. 347, no. 1, Paper No. 113737, 9 pp, 2024.
 - **[On a conjecture of spectral extremal problems](https://www.sciencedirect.com/science/article/pii/S0095895622001198?casa_token=OTB7ga9DyeoAAAAA:wpuWOiAznAuY3nebZ47Y6IdiPyR7XmyNjrrOnA-EIlhpcjX43KXTaepkMam0b9UGSVcrl9C7Ouf5)**. With Jing Wang and Liying Kang.
   - Appeared in J. Comb. Theory, B.,  159, 20–41, 2023.
-- **[Anti-Ramsey number of matchings in r-partite r-uniform hypergraphs](https://www.sciencedirect.com/science/article/abs/pii/S0012365X21004957)**. With Erfang Shan and Liying Kang, [arXiv:2109.05163](https://arxiv.org/abs/2109.05163)
-  - Appeared in [Discrete Math., 345, no. 4, Paper No. 112782, 7 pp, 2022.
+- **[Anti-Ramsey number of matchings in r-partite r-uniform hypergraphs](https://www.sciencedirect.com/science/article/abs/pii/S0012365X21004957)**. With Erfang Shan and Liying Kang
+  - Appeared in [Discrete Math., 345, no. 4, Paper No. 112782, 7 pp, 2022. [arXiv](https://arxiv.org/abs/2109.05163)
