@@ -15,7 +15,7 @@ I am currently a lecturer at Ningbo University. I obtained my Ph.D. from Shangha
 
 Publications
 ======
-- **[Stability of generalized Tur\'an number for linear forests](https://link.springer.com/article/10.1007/s00373-024-02781-w#citeas)** with With Yichong Liu and Liying Kang
+- **[Stability of generalized Turán number for linear forests](https://link.springer.com/article/10.1007/s00373-024-02781-w#citeas)** with With Yichong Liu and Liying Kang
   - Appeared in Graphs Combin. 40(3):52, 2024. [arXiv](https://arxiv.org/abs/2211.07822)
 - **[The Turan number of Berge hypergraphs with stable properties](https://www.sciencedirect.com/science/article/pii/S0012365X23004235?casa_token=POCaijDJFt8AAAAA:FfPbQCihG-HdxWs9tRUNQGDWaq0dxPyub_DR_X3zrIareuSZOAR_eM9_1UTBAV0JCfSZWfKjPk7P)**. with Erfang Shan and Liying Kang
   - Appeared in Discrete Math., vol. 347, no. 1, Paper No. 113737, 9 pp, 2024.
