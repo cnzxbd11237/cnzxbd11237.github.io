@@ -13,3 +13,4 @@ Publications
 ======
 - **Counting cliques without generalized theta graphs**. With Jun Gao and Zhuo Wu, [arXiv:2311.15289](https://arxiv.org/abs/2311.15289)
 - **On a conjecture of spectral extremal problems**. With Jing Wang and Liying Kang, Appeared in [J. Comb. Theory, B.](https://www.sciencedirect.com/science/article/pii/S0095895622001198?casa_token=OTB7ga9DyeoAAAAA:wpuWOiAznAuY3nebZ47Y6IdiPyR7XmyNjrrOnA-EIlhpcjX43KXTaepkMam0b9UGSVcrl9C7Ouf5),  159, 20–41, 2023.
+- **Anti-Ramsey number of matchings in r-partite r-uniform hypergraphs**
