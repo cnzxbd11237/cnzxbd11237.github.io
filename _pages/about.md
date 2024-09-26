@@ -13,6 +13,9 @@ Publications
 ======
 - **Counting cliques without generalized theta graphs**.
   - With Jun Gao and Zhuo Wu, [arXiv:2311.15289](https://arxiv.org/abs/2311.15289)
+- **The Tur\'an number of Berge hypergraphs with stable properties**.
+  - With Erfang Shan and Liying Kang
+  - Appeared in [Discrete Math.](https://www.sciencedirect.com/science/article/pii/S0012365X23004235?casa_token=POCaijDJFt8AAAAA:FfPbQCihG-HdxWs9tRUNQGDWaq0dxPyub_DR_X3zrIareuSZOAR_eM9_1UTBAV0JCfSZWfKjPk7P), vol. 347, no. 1, Paper No. 113737, 9 pp, 2024.
 - **On a conjecture of spectral extremal problems**.
   - With Jing Wang and Liying Kang.
   - Appeared in [J. Comb. Theory, B.](https://www.sciencedirect.com/science/article/pii/S0095895622001198?casa_token=OTB7ga9DyeoAAAAA:wpuWOiAznAuY3nebZ47Y6IdiPyR7XmyNjrrOnA-EIlhpcjX43KXTaepkMam0b9UGSVcrl9C7Ouf5),  159, 20–41, 2023.
