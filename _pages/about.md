@@ -9,10 +9,14 @@ redirect_from:
 
 I am currently a lecturer at Ningbo University. I obtained my Ph.D. from Shanghai University in 2024, under the supervision of Professor Liying Kang (康丽英). My research interests include extremal combinatorics and graph theory.
 
+**Preprints**
+======
+- **[Counting cliques without generalized theta graphs](https://arxiv.org/abs/2311.15289)**.
+  - With Jun Gao and Zhuo Wu, [arXiv:2311.15289](https://arxiv.org/abs/2311.15289)
+
 Publications
 ======
-- **Counting cliques without generalized theta graphs**.
-  - With Jun Gao and Zhuo Wu, [arXiv:2311.15289](https://arxiv.org/abs/2311.15289)
+
 - **The Turan number of Berge hypergraphs with stable properties**.
   - With Erfang Shan and Liying Kang
   - Appeared in [Discrete Math.](https://www.sciencedirect.com/science/article/pii/S0012365X23004235?casa_token=POCaijDJFt8AAAAA:FfPbQCihG-HdxWs9tRUNQGDWaq0dxPyub_DR_X3zrIareuSZOAR_eM9_1UTBAV0JCfSZWfKjPk7P), vol. 347, no. 1, Paper No. 113737, 9 pp, 2024.
