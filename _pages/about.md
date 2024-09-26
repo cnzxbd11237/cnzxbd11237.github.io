@@ -13,7 +13,6 @@ My research interests include extremal combinatorics and graph theory.
 
 Preprints
 ======
-======
 - **[Counting cliques without generalized theta graphs](https://arxiv.org/abs/2311.15289)**. with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 
 Publications
