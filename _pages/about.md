@@ -11,7 +11,7 @@ I am currently a lecturer at Ningbo University. I obtained my Ph.D. from Shangha
 
 **Preprints**
 ======
-- **[Counting cliques without generalized theta graphs](https://arxiv.org/abs/2311.15289)**. with Jun Gao and Zhuo Wu
+- **[Counting cliques without generalized theta graphs](https://arxiv.org/abs/2311.15289)**. with Jun Gao and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 
 Publications
 ======
