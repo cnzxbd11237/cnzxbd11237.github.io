@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a lecturer at Ningbo University. I obtained my Ph.D. from Shanghai University in 2024, under the supervision of Professor Liying Kang (康丽英). From April 2023 to April 2024, I was a visiting student at the [IBS Extremal Combinatorics and Probability Group](https://www.ibs.re.kr/ecopro/) in South Korea.
 
-My research interests include extremal combinatorics and graph theory.
+My research interests include extremal combinatorics and (spectral) graph theory.
 
 Preprints
 ======
