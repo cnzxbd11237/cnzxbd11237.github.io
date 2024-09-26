@@ -25,7 +25,7 @@ Publications
 - **[The Turán number of Berge hypergraphs with stable properties](https://www.sciencedirect.com/science/article/pii/S0012365X23004235?casa_token=POCaijDJFt8AAAAA:FfPbQCihG-HdxWs9tRUNQGDWaq0dxPyub_DR_X3zrIareuSZOAR_eM9_1UTBAV0JCfSZWfKjPk7P)**. with Erfang Shan and Liying Kang
   - Appeared in ***Discrete Math.***, vol. 347, no. 1, Paper No. 113737, 9 pp, 2024.
 - **[Some sufficient conditions for graphs being *k*-leaf-connected](https://www.sciencedirect.com/science/article/pii/S0166218X23002317?casa_token=pahsEc3qDhAAAAAA:R_K69YIwdYAmbeZy6vQRHuNVHe3Usl_1iNsFt-mpBq23gGFI_f5OTk7yonYqB7cZGRFsAgNuCTPL)**. with Jiadong Wu and Liying Kang
-  - Appeared in Discret. Appl. Math., 339, 11-20, 2023.
+  - Appeared in ***Discret. Appl. Math.***, 339, 11-20, 2023.
 - **[On a conjecture of spectral extremal problems](https://www.sciencedirect.com/science/article/pii/S0095895622001198?casa_token=OTB7ga9DyeoAAAAA:wpuWOiAznAuY3nebZ47Y6IdiPyR7XmyNjrrOnA-EIlhpcjX43KXTaepkMam0b9UGSVcrl9C7Ouf5)**. with Jing Wang and Liying Kang.
   - Appeared in ***J. Comb. Theory, B.***,  159, 20–41, 2023.
 - **[Anti-Ramsey number of matchings in *r*-partite *r*-uniform hypergraphs](https://www.sciencedirect.com/science/article/abs/pii/S0012365X21004957)**. with Erfang Shan and Liying Kang
