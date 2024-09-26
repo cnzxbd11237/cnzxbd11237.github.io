@@ -40,6 +40,6 @@ Talks
 - **Anti-Ramsey number of matchings in *r*-partite *r*-uniform hypergraphs**
   - SCMS Student Seminar, 2023, Online.
 - **On the stability of chromatic thresholds of graphs**
-  - Shandong University 8th `Qilu Youth Forum' Subforum on Mathematics and Interdisciplinary Sciences., 2023, Qingdao
+  - Shandong University 8th 'Qilu Youth Forum' Subforum on Mathematics and Interdisciplinary Sciences., 2023, Qingdao
 - **Counting cliques without generalized theta graphs**
   - The 11th National Conference on Combinatorics and Graph Theory, 2024, Qingdao
