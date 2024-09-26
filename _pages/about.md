@@ -31,3 +31,5 @@ Publications
   - Appeared in [Discrete Math., 345, no. 4, Paper No. 112782, 7 pp, 2022. [arXiv](https://arxiv.org/abs/2109.05163)
 - **[On the *r*-uniform linear hypertrees with extremal Estrada indices](https://www.sciencedirect.com/science/article/abs/pii/S0096300320301132)**. with Wen-Huan Wang
   - Appeared in Appl. Math. Comput., 377, 125144, 11 pp, 2020.
+- **[Extremal Estrada indices of the weighted trees with fixed total weight sum](https://www.sciencedirect.com/science/article/abs/pii/S0096300319301171)**. with Wen-Huan Wang
+  - Appeared in Appl. Math. Comput., 354, 32–41, 2019.
