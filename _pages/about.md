@@ -11,7 +11,8 @@ I am currently a lecturer at Ningbo University. I obtained my Ph.D. from Shangha
 
 My research interests include extremal combinatorics and graph theory.
 
-**Preprints**
+Preprints
+======
 ======
 - **[Counting cliques without generalized theta graphs](https://arxiv.org/abs/2311.15289)**. with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 
@@ -33,3 +34,12 @@ Publications
   - Appeared in ***Appl. Math. Comput.***, 377, 125144, 11 pp, 2020.
 - **[Extremal Estrada indices of the weighted trees with fixed total weight sum](https://www.sciencedirect.com/science/article/abs/pii/S0096300319301171)**. with Wen-Huan Wang
   - Appeared in ***Appl. Math. Comput.***, 354, 32–41, 2019.
+
+Talks
+======
+- **Anti-Ramsey number of matchings in *r*-partite *r*-uniform hypergraphs**
+  - SCMS Student Seminar, 2023, Online.
+- **On the stability of chromatic thresholds of graphs**
+  - Shandong University 8th `Qilu Youth Forum' Subforum on Mathematics and Interdisciplinary Sciences., 2023, Qingdao
+- **Counting cliques without generalized theta graphs**
+  - The 11th National Conference on Combinatorics and Graph Theory, 2024, Qingdao
