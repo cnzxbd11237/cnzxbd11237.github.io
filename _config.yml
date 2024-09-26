@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yisai Xue / Site Title"
+title                    : "Yisai's academicpage"
 title_separator          : "-"
 name                     : &name "Yisai Xue"
 description              : &description "personal description"
