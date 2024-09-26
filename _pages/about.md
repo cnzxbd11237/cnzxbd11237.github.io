@@ -12,5 +12,4 @@ I am currently a lecturer at Ningbo University. I obtained my Ph.D. from Shangha
 Publications
 ======
 - **Counting cliques without generalized theta graphs**. With Jun Gao and Zhuo Wu, [arXiv:2311.15289](https://arxiv.org/abs/2311.15289)
-
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **On a conjecture of spectral extremal problems**. With Jing Wang and Liying Kang, Appeared in [J. Comb. Theory, B.](https://www.sciencedirect.com/science/article/pii/S0095895622001198?casa_token=OTB7ga9DyeoAAAAA:wpuWOiAznAuY3nebZ47Y6IdiPyR7XmyNjrrOnA-EIlhpcjX43KXTaepkMam0b9UGSVcrl9C7Ouf5),  159, 20–41, 2023.
