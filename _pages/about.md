@@ -13,6 +13,7 @@ My research interests include extremal combinatorics and (spectral) graph theory
 
 Preprints
 ======
+- **[Stability with minuscule structure for chromatic thresholds](https://arxiv.org/abs/2506.14748)**. with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Chong Shangguan](https://faculty.sdu.edu.cn/sgc/zh_CN/index.htm), [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 - **[Counting cliques without generalized theta graphs](https://arxiv.org/abs/2311.15289)**. with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 
 Publications
