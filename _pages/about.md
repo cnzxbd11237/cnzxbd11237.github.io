@@ -18,6 +18,8 @@ Preprints
 
 Publications
 ======
+- **[On generalized Turán number of graphs with bounded matching number]**. with Liying Kang
+  - Appeared in ***Discret. Appl. Math.***. [arXiv](https://arxiv.org/abs/2410.12338)
 - **[Stability of generalized Turán number for linear forests](https://link.springer.com/article/10.1007/s00373-024-02781-w#citeas)**. with With Yichong Liu and Liying Kang
   - Appeared in ***Graphs Combin.*** 40(3):52, 2024. [arXiv](https://arxiv.org/abs/2211.07822)
 - **[The Turán numbers of two kinds of Berge hypergraphs (in Chinese)](https://www.sciengine.com/SSM/doi/10.1360/SSM-2023-0201;JSESSIONID=bb43cb00-7982-4e6c-9d41-fdb374223d8a)**. with Liying Kang and Erfang Shan
@@ -43,3 +45,5 @@ Talks
   - The 11th National Conference on Combinatorics and Graph Theory, 2024, Qingdao
 - **On the stability of chromatic thresholds of graphs**
   - The 14th Xi'an Conference on Graph Theory and Combinatorics, 2024, Xi'an
+- **Stability with minuscule structure for chromatic thresholds**
+  - The 2025 Annual Conference on the Graph Theory and Combinatorics in the Operations Research Society of China, 2025, Jinan
