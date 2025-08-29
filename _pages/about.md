@@ -18,8 +18,8 @@ Preprints
 
 Publications
 ======
-- **[On generalized Turán number of graphs with bounded matching number]**. with Liying Kang
-  - Appeared in ***Discret. Appl. Math.***. [arXiv](https://arxiv.org/abs/2410.12338)
+- **[On generalized Turán number of graphs with bounded matching number](https://www.sciencedirect.com/science/article/pii/S0166218X25004706?dgcid=coauthor)**. with Liying Kang
+  - Appeared in ***Discret. Appl. Math.***, 377, 586-597, 2025. [arXiv](https://arxiv.org/abs/2410.12338)
 - **[Stability of generalized Turán number for linear forests](https://link.springer.com/article/10.1007/s00373-024-02781-w#citeas)**. with With Yichong Liu and Liying Kang
   - Appeared in ***Graphs Combin.*** 40(3):52, 2024. [arXiv](https://arxiv.org/abs/2211.07822)
 - **[The Turán numbers of two kinds of Berge hypergraphs (in Chinese)](https://www.sciengine.com/SSM/doi/10.1360/SSM-2023-0201;JSESSIONID=bb43cb00-7982-4e6c-9d41-fdb374223d8a)**. with Liying Kang and Erfang Shan
