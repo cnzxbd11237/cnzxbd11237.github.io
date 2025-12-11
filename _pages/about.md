@@ -48,4 +48,6 @@ Talks
 - **On the stability of chromatic thresholds of graphs**
   - The 14th Xi'an Conference on Graph Theory and Combinatorics, 2024, Xi'an
 - **Stability with minuscule structure for chromatic thresholds**
-  - The 2025 Annual Conference on the Graph Theory and Combinatorics in the Operations Research Society of China, 2025, Jinan
+  - The 2025 Annual Conference on the Graph Theory and Combinatorics in the Operations Research Society of China, 2025, Ji'nan
+- **On the chromatic threshold and chromatic profile of digraphs**
+  - Nankai University Young Scholars Forum on Graph Theory and Combinatorics, 2025, Tianjin
