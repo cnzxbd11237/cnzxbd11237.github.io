@@ -19,7 +19,7 @@ Preprints
 
 Publications
 ======
-- **[Counting cliques without generalized theta graphs](https://arxiv.org/abs/2311.15289)**. with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
+- **[Counting cliques without generalized theta graphs](https://onlinelibrary.wiley.com/doi/10.1002/jgt.70001)**. with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
   - To appear in ***Journal of Graph Theory***. [arXiv](https://arxiv.org/abs/2311.15289)
 - **[On generalized Turán number of graphs with bounded matching number](https://www.sciencedirect.com/science/article/pii/S0166218X25004706?dgcid=coauthor)**. with Liying Kang
   - Appeared in ***Discret. Appl. Math.***, 377, 586-597, 2025. [arXiv](https://arxiv.org/abs/2410.12338)
