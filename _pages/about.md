@@ -15,7 +15,6 @@ Preprints
 ======
 - **[Edge density and minimum degree thresholds for *H*-free graphs with unbounded chromatic number](https://arxiv.org/abs/2512.04993)**. with [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 - **[A directed Andrásfai-Erdős-Sós theorem and chromatic profiles of oriented cycles](https://arxiv.org/abs/2509.07760)**.
-- **[Stability with minuscule structure for chromatic thresholds](https://arxiv.org/abs/2506.14748)**. with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Chong Shangguan](https://faculty.sdu.edu.cn/sgc/zh_CN/index.htm), [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 
 Publications
 ======
