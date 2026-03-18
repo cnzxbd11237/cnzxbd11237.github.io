@@ -19,7 +19,7 @@ Preprints
 Publications
 ======
 - **[Stability with minuscule structure for chromatic thresholds](https://arxiv.org/abs/2506.14748)**. with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Chong Shangguan](https://faculty.sdu.edu.cn/sgc/zh_CN/index.htm), [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
-  - Accepted by ***Peking Mathematical Journal***, 2026. [arXiv](https://arxiv.org/abs/2506.14748)
+  - To appear in ***Peking Mathematical Journal***, 2026. [arXiv](https://arxiv.org/abs/2506.14748)
 - **[Counting cliques without generalized theta graphs](https://onlinelibrary.wiley.com/doi/10.1002/jgt.70001)**. with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
   - Appeared in ***Journal of Graph Theory***, 111(3), 78-94, 2026. [arXiv](https://arxiv.org/abs/2311.15289)
 - **[On generalized Turán number of graphs with bounded matching number](https://www.sciencedirect.com/science/article/pii/S0166218X25004706?dgcid=coauthor)**. with Liying Kang
