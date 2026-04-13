@@ -13,14 +13,14 @@ My research interests include extremal combinatorics and (spectral) graph theory
 
 Preprints
 ======
-- **[On the chromatic profile for tripartite graphs and beyond](https://arxiv.org/abs/2604.09394)**. with [Bo Ningu](https://cyber.nankai.edu.cn/2021/0323/c37289a575906/page.htm) and [Jian Wang](https://www.researchgate.net/profile/Jian-Wang-116)
+- **[On the chromatic profile for tripartite graphs and beyond](https://arxiv.org/abs/2604.09394)**. with [Bo Ning](https://cyber.nankai.edu.cn/2021/0323/c37289a575906/page.htm) and [Jian Wang](https://www.researchgate.net/profile/Jian-Wang-116)
 - **[Edge density and minimum degree thresholds for *H*-free graphs with unbounded chromatic number](https://arxiv.org/abs/2512.04993)**. with [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 - **[A directed Andrásfai-Erdős-Sós theorem and chromatic profiles of oriented cycles](https://arxiv.org/abs/2509.07760)**.
 
 Publications
 ======
 - **[Stability with minuscule structure for chromatic thresholds](https://arxiv.org/abs/2506.14748)**. with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Chong Shangguan](https://faculty.sdu.edu.cn/sgc/zh_CN/index.htm), [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
-  - To appear in ***Peking Mathematical Journal***, 2026. [arXiv](https://arxiv.org/abs/2506.14748)
+  - To appear in ***Peking Math. J.***, 2026. [arXiv](https://arxiv.org/abs/2506.14748)
 - **[Counting cliques without generalized theta graphs](https://onlinelibrary.wiley.com/doi/10.1002/jgt.70001)**. with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
   - Appeared in ***J. Graph Theory***, 111(3), 78-94, 2026. [arXiv](https://arxiv.org/abs/2311.15289)
 - **[On generalized Turán number of graphs with bounded matching number](https://www.sciencedirect.com/science/article/pii/S0166218X25004706?dgcid=coauthor)**. with Liying Kang
