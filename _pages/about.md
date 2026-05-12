@@ -13,6 +13,7 @@ My research interests include extremal combinatorics and (spectral) graph theory
 
 Preprints
 ======
+- **[Chromatic thresholds for pairs of graphs](https://arxiv.org/abs/2605.10897)**. with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 - **[On the chromatic profile for tripartite graphs and beyond](https://arxiv.org/abs/2604.09394)**. with [Bo Ning](https://cyber.nankai.edu.cn/2021/0323/c37289a575906/page.htm) and [Jian Wang](https://www.researchgate.net/profile/Jian-Wang-116)
 - **[Edge density and minimum degree thresholds for *H*-free graphs with unbounded chromatic number](https://arxiv.org/abs/2512.04993)**. with [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 - **[A directed Andrásfai-Erdős-Sós theorem and chromatic profiles of oriented cycles](https://arxiv.org/abs/2509.07760)**.
