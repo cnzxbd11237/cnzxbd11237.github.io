@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am currently a lecturer at Ningbo University. My research lies in extremal combinatorics and graph theory.
+
 I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liying Kang (康丽英)](https://scicol.shu.edu.cn/szdw/faculty/kly.htm). From April 2023 to April 2024, I visited the [IBS Extremal Combinatorics and Probability Group](https://www.ibs.re.kr/ecopro/) in South Korea, under the guidance of [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/).
 
 
