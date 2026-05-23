@@ -7,26 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a lecturer at Ningbo University. I obtained my Ph.D. from Shanghai University in 2024, under the supervision of Professor [Liying Kang (康丽英)](https://scicol.shu.edu.cn/szdw/faculty/kly.htm). From April 2023 to April 2024, I was a visiting student at the [IBS Extremal Combinatorics and Probability Group](https://www.ibs.re.kr/ecopro/) in South Korea, under the guidance of [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/).
+I am currently a lecturer at Ningbo University. My research lies in extremal combinatorics and graph theory.
+I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liying Kang (康丽英)](https://scicol.shu.edu.cn/szdw/faculty/kly.htm). From April 2023 to April 2024, I visited the [IBS Extremal Combinatorics and Probability Group](https://www.ibs.re.kr/ecopro/) in South Korea, under the guidance of [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/).
 
-My research interests include extremal combinatorics and (spectral) graph theory.
 
-Preprints
-======
+## Preprints
 - **[Chromatic thresholds for pairs of graphs](https://arxiv.org/abs/2605.10897)**. with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 - **[On the chromatic profile for tripartite graphs and beyond](https://arxiv.org/abs/2604.09394)**. with [Bo Ning](https://cyber.nankai.edu.cn/2021/0323/c37289a575906/page.htm) and [Jian Wang](https://www.researchgate.net/profile/Jian-Wang-116)
 - **[Edge density and minimum degree thresholds for *H*-free graphs with unbounded chromatic number](https://arxiv.org/abs/2512.04993)**. with [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 - **[A directed Andrásfai-Erdős-Sós theorem and chromatic profiles of oriented cycles](https://arxiv.org/abs/2509.07760)**.
 
-Publications
-======
+## Publications
 - **[Stability with minuscule structure for chromatic thresholds](https://arxiv.org/abs/2506.14748)**. with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Chong Shangguan](https://faculty.sdu.edu.cn/sgc/zh_CN/index.htm), [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
   - To appear in ***Peking Math. J.***, 2026. [arXiv](https://arxiv.org/abs/2506.14748)
 - **[Counting cliques without generalized theta graphs](https://onlinelibrary.wiley.com/doi/10.1002/jgt.70001)**. with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
   - Appeared in ***J. Graph Theory***, 111(3), 78-94, 2026. [arXiv](https://arxiv.org/abs/2311.15289)
 - **[On generalized Turán number of graphs with bounded matching number](https://www.sciencedirect.com/science/article/pii/S0166218X25004706?dgcid=coauthor)**. with Liying Kang
   - Appeared in ***Discret. Appl. Math.***, 377, 586-597, 2025. [arXiv](https://arxiv.org/abs/2410.12338)
-- **[Stability of generalized Turán number for linear forests](https://link.springer.com/article/10.1007/s00373-024-02781-w#citeas)**. with With Yichong Liu and Liying Kang
+- **[Stability of generalized Turán number for linear forests](https://link.springer.com/article/10.1007/s00373-024-02781-w#citeas)**. with Yichong Liu and Liying Kang
   - Appeared in ***Graphs Combin.*** 40(3):52, 2024. [arXiv](https://arxiv.org/abs/2211.07822)
 - **[The Turán numbers of two kinds of Berge hypergraphs (in Chinese)](https://www.sciengine.com/SSM/doi/10.1360/SSM-2023-0201;JSESSIONID=bb43cb00-7982-4e6c-9d41-fdb374223d8a)**. with Liying Kang and Erfang Shan
   - Appeared in ***Sci. Sin. Math.***, 54,  1-14, 2024.
@@ -43,8 +41,7 @@ Publications
 - **[Extremal Estrada indices of the weighted trees with fixed total weight sum](https://www.sciencedirect.com/science/article/abs/pii/S0096300319301171)**. with Wen-Huan Wang
   - Appeared in ***Appl. Math. Comput.***, 354, 32–41, 2019.
 
-Talks
-======
+## Talks
 - **Anti-Ramsey number of matchings in *r*-partite *r*-uniform hypergraphs**
   - SCMS Student Seminar, 2023, Online.
 - **Counting cliques without generalized theta graphs**
