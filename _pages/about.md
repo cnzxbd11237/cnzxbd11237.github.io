@@ -13,6 +13,7 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
 
 
 ## Preprints
+- **[A discrepancy dichotomy for 1-factorizations of signed complete bipartite graphs](https://arxiv.org/abs/2605.25444)**. with Yacong Zhou.
 - **[Chromatic thresholds for pairs of graphs](https://arxiv.org/abs/2605.10897)**. with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 - **[On the chromatic profile for tripartite graphs and beyond](https://arxiv.org/abs/2604.09394)**. with [Bo Ning](https://cyber.nankai.edu.cn/2021/0323/c37289a575906/page.htm) and [Jian Wang](https://www.researchgate.net/profile/Jian-Wang-116)
 - **[Edge density and minimum degree thresholds for *H*-free graphs with unbounded chromatic number](https://arxiv.org/abs/2512.04993)**. with [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
