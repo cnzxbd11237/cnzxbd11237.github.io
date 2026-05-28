@@ -45,7 +45,7 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
 
 ## Talks
 - **On the chromatic profile for tripartite graphs and beyond**
-  - 2026 Academic Conference of the Graph Theory, Combinatorics and Applications, CSIAM, Shijiazhuang
+  - Academic Conference of the Graph Theory, Combinatorics and Applications, CSIAM, 2026, Shijiazhuang
 - **On the chromatic threshold and chromatic profile of digraphs**
   - Nankai University Young Scholars Forum on Graph Theory and Combinatorics, 2025, Tianjin
 - **Stability with minuscule structure for chromatic thresholds**
