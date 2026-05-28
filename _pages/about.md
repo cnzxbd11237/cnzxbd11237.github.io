@@ -44,13 +44,19 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
   - Appeared in ***Appl. Math. Comput.***, 354, 32–41, 2019.
 
 ## Talks
-- **Anti-Ramsey number of matchings in *r*-partite *r*-uniform hypergraphs**
-  - SCMS Student Seminar, 2023, Online.
-- **Counting cliques without generalized theta graphs**
-  - The 11th National Conference on Combinatorics and Graph Theory, 2024, Qingdao
-- **On the stability of chromatic thresholds of graphs**
-  - The 14th Xi'an Conference on Graph Theory and Combinatorics, 2024, Xi'an
-- **Stability with minuscule structure for chromatic thresholds**
-  - The 2025 Annual Conference on the Graph Theory and Combinatorics in the Operations Research Society of China, 2025, Ji'nan
+- **On the chromatic profile for tripartite graphs and beyond**
+  - 2026 Academic Conference of the Graph Theory, Combinatorics and Applications, CSIAM, Shijiazhuang
 - **On the chromatic threshold and chromatic profile of digraphs**
   - Nankai University Young Scholars Forum on Graph Theory and Combinatorics, 2025, Tianjin
+- **Stability with minuscule structure for chromatic thresholds**
+  - The 2025 Annual Conference on the Graph Theory and Combinatorics in the Operations Research Society of China, 2025, Ji'nan
+- **On the stability of chromatic thresholds of graphs**
+  - The 14th Xi'an Conference on Graph Theory and Combinatorics, 2024, Xi'an
+- **Counting cliques without generalized theta graphs**
+  - The 11th National Conference on Combinatorics and Graph Theory, 2024, Qingdao
+- **Anti-Ramsey number of matchings in *r*-partite *r*-uniform hypergraphs**
+  - SCMS Student Seminar, 2023, Online.
+
+
+
+
