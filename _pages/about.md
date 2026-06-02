@@ -40,7 +40,7 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
   - ***Graphs and Combinatorics***, 2024. 
 - **[The Turán numbers of two kinds of Berge hypergraphs (in Chinese)](https://www.sciengine.com/SSM/doi/10.1360/SSM-2023-0201;JSESSIONID=bb43cb00-7982-4e6c-9d41-fdb374223d8a)**.
   - with Liying Kang and Erfang Shan
-  - ***Scientia Sinica Mathematica***, 2024.
+  - ***《中国科学:数学》***, 2024.
 - **[The Turán number of Berge hypergraphs with stable properties](https://www.sciencedirect.com/science/article/pii/S0012365X23004235?casa_token=POCaijDJFt8AAAAA:FfPbQCihG-HdxWs9tRUNQGDWaq0dxPyub_DR_X3zrIareuSZOAR_eM9_1UTBAV0JCfSZWfKjPk7P)**.
   - with Erfang Shan and Liying Kang
   - ***Discrete Mathematics***, 2024.
