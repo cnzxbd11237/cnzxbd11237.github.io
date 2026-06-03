@@ -16,7 +16,7 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
 - **[Abundance of Unique Subhypergraphs](https://arxiv.org/abs/2606.02546)**.
   - with [Xichao Shu](https://xiyuan0208.github.io/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/).
 - **[A discrepancy dichotomy for 1-factorizations of signed complete bipartite graphs](https://arxiv.org/abs/2605.25444)**.
-  - with Yacong Zhou.
+  - with [Yacong Zhou](https://yacongzhou.github.io/).
 - **[Chromatic thresholds for pairs of graphs](https://arxiv.org/abs/2605.10897)**.
   - with [Jun Gao](https://www.ibs.re.kr/ecopro/jungao/), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/)
 - **[On the chromatic profile for tripartite graphs and beyond](https://arxiv.org/abs/2604.09394)**.
