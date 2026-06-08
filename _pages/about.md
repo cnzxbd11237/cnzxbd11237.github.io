@@ -13,6 +13,7 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
 
 
 ## Preprints
+- **[Minimum degree stability for graphs without odd-cycle blow-up](https://arxiv.org/abs/2606.07358)**.
 - **[Abundance of Unique Subhypergraphs](https://arxiv.org/abs/2606.02546)**.
   - with [Xichao Shu](https://xiyuan0208.github.io/) and [Zhuo Wu](https://warwick.ac.uk/fac/sci/maths/people/staff/wu/).
 - **[A discrepancy dichotomy for 1-factorizations of signed complete bipartite graphs](https://arxiv.org/abs/2605.25444)**.
