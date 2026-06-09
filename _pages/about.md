@@ -59,7 +59,7 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
   - ***Applied Mathematics and Computation***, 2020.
 - **[Extremal Estrada indices of the weighted trees with fixed total weight sum](https://www.sciencedirect.com/science/article/abs/pii/S0096300319301171)**.
   - with Wen-Huan Wang
-  - ***Applied Mathematics and Computation***, 019.
+  - ***Applied Mathematics and Computation***, 2019.
 
 ## Talks
 - **On the chromatic profile for tripartite graphs and beyond**
