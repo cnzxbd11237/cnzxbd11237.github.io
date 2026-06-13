@@ -11,20 +11,54 @@ I am currently a lecturer at Ningbo University. My research lies in extremal com
 
 I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liying Kang (康丽英)](https://scicol.shu.edu.cn/szdw/faculty/kly.htm). From April 2023 to April 2024, I visited the [IBS Extremal Combinatorics and Probability Group](https://www.ibs.re.kr/ecopro/) in South Korea, under the guidance of [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/).
 
-
 ## Preprints
-7. **[Minimum degree stability for graphs without odd-cycle blow-up](https://arxiv.org/abs/2606.07358)**.
-6. **[Abundance of Unique Subhypergraphs](https://arxiv.org/abs/2606.02546)**.
-  - with [Xichao Shu](https://xiyuan0208.github.io/) and [Zhuo Wu](https://sites.google.com/view/zhuowu/home).
-5. **[A discrepancy dichotomy for 1-factorizations of signed complete bipartite graphs](https://arxiv.org/abs/2605.25444)**.
-  - with [Yacong Zhou](https://yacongzhou.github.io/).
-4. **[Chromatic thresholds for pairs of graphs](https://arxiv.org/abs/2605.10897)**.
-  - with [Jun Gao](https://jungao0211.github.io/), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/) and [Zhuo Wu](https://sites.google.com/view/zhuowu/home)
-3. **[On the chromatic profile for tripartite graphs and beyond](https://arxiv.org/abs/2604.09394)**.
-  - with [Bo Ning](https://cyber.nankai.edu.cn/2021/0323/c37289a575906/page.htm) and [Jian Wang](https://www.researchgate.net/profile/Jian-Wang-116)
-2. **[Edge density and minimum degree thresholds for *H*-free graphs with unbounded chromatic number](https://arxiv.org/abs/2512.04993)**.
-  - with [Zhuo Wu](https://sites.google.com/view/zhuowu/home).
-1. **[A directed Andrásfai-Erdős-Sós theorem and chromatic profiles of oriented cycles](https://arxiv.org/abs/2509.07760)**.
+
+<ol reversed start="7">
+
+<li>
+<strong><a href="https://arxiv.org/abs/2606.07358">Minimum degree stability for graphs without odd-cycle blow-up</a></strong>.
+</li>
+
+<li>
+<strong><a href="https://arxiv.org/abs/2606.02546">Abundance of Unique Subhypergraphs</a></strong>.
+<ul>
+  <li>with <a href="https://xiyuan0208.github.io/">Xichao Shu</a> and <a href="https://sites.google.com/view/zhuowu/home">Zhuo Wu</a>.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://arxiv.org/abs/2605.25444">A discrepancy dichotomy for 1-factorizations of signed complete bipartite graphs</a></strong>.
+<ul>
+  <li>with <a href="https://yacongzhou.github.io/">Yacong Zhou</a>.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://arxiv.org/abs/2605.10897">Chromatic thresholds for pairs of graphs</a></strong>.
+<ul>
+  <li>with <a href="https://jungao0211.github.io/">Jun Gao</a>, <a href="https://www.ibs.re.kr/ecopro/hongliu/">Hong Liu</a> and <a href="https://sites.google.com/view/zhuowu/home">Zhuo Wu</a>.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://arxiv.org/abs/2604.09394">On the chromatic profile for tripartite graphs and beyond</a></strong>.
+<ul>
+  <li>with <a href="https://cyber.nankai.edu.cn/2021/0323/c37289a575906/page.htm">Bo Ning</a> and <a href="https://www.researchgate.net/profile/Jian-Wang-116">Jian Wang</a>.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://arxiv.org/abs/2512.04993">Edge density and minimum degree thresholds for <em>H</em>-free graphs with unbounded chromatic number</a></strong>.
+<ul>
+  <li>with <a href="https://sites.google.com/view/zhuowu/home">Zhuo Wu</a>.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://arxiv.org/abs/2509.07760">A directed Andrásfai-Erdős-Sós theorem and chromatic profiles of oriented cycles</a></strong>.
+</li>
+
+</ol>
 
 ## Publications
 
