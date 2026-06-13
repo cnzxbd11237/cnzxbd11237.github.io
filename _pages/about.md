@@ -31,73 +31,21 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
 <ol reversed start="11">
 
 <li>
-<strong><a href="https://arxiv.org/abs/2506.14748">Stability with minuscule structure for chromatic thresholds</a></strong>.<br>
-Joint with Jaehoon Kim, Hong Liu, Chong Shangguan, Guanghui Wang and Zhuo Wu.<br>
-<em>Peking Mathematical Journal</em>, 2026.
+<strong><a href="https://arxiv.org/abs/2506.14748">Stability with minuscule structure for chromatic thresholds</a></strong>.
+<a href="https://arxiv.org/abs/2506.14748">arXiv</a>
+<ul>
+  <li>with <a href="https://sites.google.com/view/jaehoon-kim/home">Jaehoon Kim</a>, <a href="https://www.ibs.re.kr/ecopro/hongliu/">Hong Liu</a>, <a href="https://faculty.sdu.edu.cn/sgc/zh_CN/index.htm">Chong Shangguan</a>, <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm">Guanghui Wang</a> and <a href="https://sites.google.com/view/zhuowu/home">Zhuo Wu</a>.</li>
+  <li><strong><em>Peking Mathematical Journal</em></strong>, 2026.</li>
+</ul>
 </li>
 
 <li>
 <strong><a href="https://onlinelibrary.wiley.com/doi/10.1002/jgt.70001">Counting cliques without generalized theta graphs</a></strong>.
-<a href="https://arxiv.org/abs/2311.15289">arXiv</a><br>
-Joint with Jun Gao and Zhuo Wu.<br>
-<em>Journal of Graph Theory</em>, 2026.
-</li>
-
-<li>
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S0166218X25004706">On generalized Turán number of graphs with bounded matching number</a></strong>.
-<a href="https://arxiv.org/abs/2410.12338">arXiv</a><br>
-Joint with Liying Kang.<br>
-<em>Discrete Applied Mathematics</em>, 2025.
-</li>
-
-<li>
-<strong><a href="https://link.springer.com/article/10.1007/s00373-024-02781-w">Stability of generalized Turán number for linear forests</a></strong>.
-<a href="https://arxiv.org/abs/2211.07822">arXiv</a><br>
-Joint with Yichong Liu and Liying Kang.<br>
-<em>Graphs and Combinatorics</em>, 2024.
-</li>
-
-<li>
-<strong><a href="https://www.sciengine.com/SSM/doi/10.1360/SSM-2023-0201">The Turán numbers of two kinds of Berge hypergraphs</a></strong>.<br>
-Joint with Liying Kang and Erfang Shan.<br>
-<em>Scientia Sinica Mathematica</em>, 2024. In Chinese.
-</li>
-
-<li>
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S0012365X23004235">The Turán number of Berge hypergraphs with stable properties</a></strong>.<br>
-Joint with Erfang Shan and Liying Kang.<br>
-<em>Discrete Mathematics</em>, 2024.
-</li>
-
-<li>
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S0166218X23002317">Some sufficient conditions for graphs being <em>k</em>-leaf-connected</a></strong>.<br>
-Joint with Jiadong Wu and Liying Kang.<br>
-<em>Discrete Applied Mathematics</em>, 2023.
-</li>
-
-<li>
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S0095895622001198">On a conjecture of spectral extremal problems</a></strong>.<br>
-Joint with Jing Wang and Liying Kang.<br>
-<em>Journal of Combinatorial Theory, Series B</em>, 2023.
-</li>
-
-<li>
-<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012365X21004957">Anti-Ramsey number of matchings in <em>r</em>-partite <em>r</em>-uniform hypergraphs</a></strong>.
-<a href="https://arxiv.org/abs/2109.05163">arXiv</a><br>
-Joint with Erfang Shan and Liying Kang.<br>
-<em>Discrete Mathematics</em>, 2022.
-</li>
-
-<li>
-<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300320301132">On the <em>r</em>-uniform linear hypertrees with extremal Estrada indices</a></strong>.<br>
-Joint with Wen-Huan Wang.<br>
-<em>Applied Mathematics and Computation</em>, 2020.
-</li>
-
-<li>
-<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300319301171">Extremal Estrada indices of the weighted trees with fixed total weight sum</a></strong>.<br>
-Joint with Wen-Huan Wang.<br>
-<em>Applied Mathematics and Computation</em>, 2019.
+<a href="https://arxiv.org/abs/2311.15289">arXiv</a>
+<ul>
+  <li>with <a href="https://jungao0211.github.io/">Jun Gao</a> and <a href="https://sites.google.com/view/zhuowu/home">Zhuo Wu</a>.</li>
+  <li><strong><em>Journal of Graph Theory</em></strong>, 2026.</li>
+</ul>
 </li>
 
 </ol>
