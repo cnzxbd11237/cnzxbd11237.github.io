@@ -48,42 +48,82 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
 </ul>
 </li>
 
-</ol>
+<li>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S0166218X25004706">On generalized Turán number of graphs with bounded matching number</a></strong>.
+<a href="https://arxiv.org/abs/2410.12338">arXiv</a>
+<ul>
+  <li>with Liying Kang.</li>
+  <li><strong><em>Discrete Applied Mathematics</em></strong>, 2025.</li>
+</ul>
+</li>
 
-## Publications
-11. **[Stability with minuscule structure for chromatic thresholds](https://arxiv.org/abs/2506.14748)**. [arXiv](https://arxiv.org/abs/2506.14748)
-  - with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Chong Shangguan](https://faculty.sdu.edu.cn/sgc/zh_CN/index.htm), [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm) and [Zhuo Wu](https://sites.google.com/view/zhuowu/home).
-  - ***Peking Mathematical Journal***, 2026. 
-10. **[Counting cliques without generalized theta graphs](https://onlinelibrary.wiley.com/doi/10.1002/jgt.70001)**. [arXiv](https://arxiv.org/abs/2311.15289)
-  - with [Jun Gao](https://jungao0211.github.io/) and [Zhuo Wu](https://sites.google.com/view/zhuowu/home)
-  - ***Journal of Graph Theory***, 2026. 
-9. **[On generalized Turán number of graphs with bounded matching number](https://www.sciencedirect.com/science/article/pii/S0166218X25004706?dgcid=coauthor)**. [arXiv](https://arxiv.org/abs/2410.12338)
-  - with Liying Kang
-  - ***Discrete Applied Mathematics***, 2025. 
-8. **[Stability of generalized Turán number for linear forests](https://link.springer.com/article/10.1007/s00373-024-02781-w#citeas)**. [arXiv](https://arxiv.org/abs/2211.07822)
-  - with Yichong Liu and Liying Kang
-  - ***Graphs and Combinatorics***, 2024. 
-7. **[The Turán numbers of two kinds of Berge hypergraphs (in Chinese)](https://www.sciengine.com/SSM/doi/10.1360/SSM-2023-0201;JSESSIONID=bb43cb00-7982-4e6c-9d41-fdb374223d8a)**.
-  - with Liying Kang and Erfang Shan
-  - ***《中国科学:数学》***, 2024.
-6. **[The Turán number of Berge hypergraphs with stable properties](https://www.sciencedirect.com/science/article/pii/S0012365X23004235?casa_token=POCaijDJFt8AAAAA:FfPbQCihG-HdxWs9tRUNQGDWaq0dxPyub_DR_X3zrIareuSZOAR_eM9_1UTBAV0JCfSZWfKjPk7P)**.
-  - with Erfang Shan and Liying Kang
-  - ***Discrete Mathematics***, 2024.
-5. **[Some sufficient conditions for graphs being *k*-leaf-connected](https://www.sciencedirect.com/science/article/pii/S0166218X23002317?casa_token=pahsEc3qDhAAAAAA:R_K69YIwdYAmbeZy6vQRHuNVHe3Usl_1iNsFt-mpBq23gGFI_f5OTk7yonYqB7cZGRFsAgNuCTPL)**.
-  - with Jiadong Wu and Liying Kang
-  - ***Discrete Applied Mathematics***, 2023.
-4. **[On a conjecture of spectral extremal problems](https://www.sciencedirect.com/science/article/pii/S0095895622001198?casa_token=OTB7ga9DyeoAAAAA:wpuWOiAznAuY3nebZ47Y6IdiPyR7XmyNjrrOnA-EIlhpcjX43KXTaepkMam0b9UGSVcrl9C7Ouf5)**.
-  - with Jing Wang and Liying Kang.
-  - ***Journal of Combinatorial Theory, Series B***, 2023.
-3. **[Anti-Ramsey number of matchings in *r*-partite *r*-uniform hypergraphs](https://www.sciencedirect.com/science/article/abs/pii/S0012365X21004957)**. [arXiv](https://arxiv.org/abs/2109.05163)
-  - with Erfang Shan and Liying Kang
-  - ***Discrete Mathematics***, 2022. 
-2. **[On the *r*-uniform linear hypertrees with extremal Estrada indices](https://www.sciencedirect.com/science/article/abs/pii/S0096300320301132)**.
-  - with Wen-Huan Wang
-  - ***Applied Mathematics and Computation***, 2020.
-1. **[Extremal Estrada indices of the weighted trees with fixed total weight sum](https://www.sciencedirect.com/science/article/abs/pii/S0096300319301171)**.
-  - with Wen-Huan Wang
-  - ***Applied Mathematics and Computation***, 2019.
+<li>
+<strong><a href="https://link.springer.com/article/10.1007/s00373-024-02781-w">Stability of generalized Turán number for linear forests</a></strong>.
+<a href="https://arxiv.org/abs/2211.07822">arXiv</a>
+<ul>
+  <li>with Yichong Liu and Liying Kang.</li>
+  <li><strong><em>Graphs and Combinatorics</em></strong>, 2024.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://www.sciengine.com/SSM/doi/10.1360/SSM-2023-0201">The Turán numbers of two kinds of Berge hypergraphs</a></strong>.
+<ul>
+  <li>with Liying Kang and Erfang Shan.</li>
+  <li><strong><em>Scientia Sinica Mathematica</em></strong>, 2024. In Chinese.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S0012365X23004235">The Turán number of Berge hypergraphs with stable properties</a></strong>.
+<ul>
+  <li>with Erfang Shan and Liying Kang.</li>
+  <li><strong><em>Discrete Mathematics</em></strong>, 2024.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S0166218X23002317">Some sufficient conditions for graphs being <em>k</em>-leaf-connected</a></strong>.
+<ul>
+  <li>with Jiadong Wu and Liying Kang.</li>
+  <li><strong><em>Discrete Applied Mathematics</em></strong>, 2023.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S0095895622001198">On a conjecture of spectral extremal problems</a></strong>.
+<ul>
+  <li>with Jing Wang and Liying Kang.</li>
+  <li><strong><em>Journal of Combinatorial Theory, Series B</em></strong>, 2023.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012365X21004957">Anti-Ramsey number of matchings in <em>r</em>-partite <em>r</em>-uniform hypergraphs</a></strong>.
+<a href="https://arxiv.org/abs/2109.05163">arXiv</a>
+<ul>
+  <li>with Erfang Shan and Liying Kang.</li>
+  <li><strong><em>Discrete Mathematics</em></strong>, 2022.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300320301132">On the <em>r</em>-uniform linear hypertrees with extremal Estrada indices</a></strong>.
+<ul>
+  <li>with Wen-Huan Wang.</li>
+  <li><strong><em>Applied Mathematics and Computation</em></strong>, 2020.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300319301171">Extremal Estrada indices of the weighted trees with fixed total weight sum</a></strong>.
+<ul>
+  <li>with Wen-Huan Wang.</li>
+  <li><strong><em>Applied Mathematics and Computation</em></strong>, 2019.</li>
+</ul>
+</li>
+
+</ol>
 
 ## Talks
 - **On the chromatic profile for tripartite graphs and beyond**
