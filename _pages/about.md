@@ -62,7 +62,7 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
 
 ## Publications
 
-<ol reversed start="11">
+<ol reversed start="12">
 
 <li>
 <strong><a href="https://arxiv.org/abs/2506.14748">Stability with minuscule structure for chromatic thresholds</a></strong>.
@@ -70,6 +70,14 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
 <ul>
   <li>with <a href="https://sites.google.com/view/jaehoon-kim/home">Jaehoon Kim</a>, <a href="https://www.ibs.re.kr/ecopro/hongliu/">Hong Liu</a>, <a href="https://faculty.sdu.edu.cn/sgc/zh_CN/index.htm">Chong Shangguan</a>, <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm">Guanghui Wang</a> and <a href="https://sites.google.com/view/zhuowu/home">Zhuo Wu</a>.</li>
   <li><strong><em>Peking Mathematical Journal</em></strong>, 2026.</li>
+</ul>
+</li>
+
+<li>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S0012365X26001834">Many cliques in graphs with bounded matching number and circumference</a></strong>.
+<ul>
+  <li>with Yongchun Lu and Liying Kang.</li>
+  <li><strong><em>Discrete Mathematics</em></strong>, 2026.</li>
 </ul>
 </li>
 
