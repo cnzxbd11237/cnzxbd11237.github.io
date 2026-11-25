@@ -13,7 +13,14 @@ I received my Ph.D. from Shanghai University in 2024, advised by Professor [Liyi
 
 ## Preprints
 
-<ol reversed start="7">
+<ol reversed start="8">
+
+<li>
+<strong><a href="https://arxiv.org/abs/2611.29486">An asymptotic form of Thomasse's directed path conjecture</a></strong>.
+<ul>
+  <li>with Xinyao Ren and Ai Yang.</li>
+</ul>
+</li>
 
 <li>
 <strong><a href="https://arxiv.org/abs/2606.07358">Minimum degree stability for graphs without odd-cycle blow-up</a></strong>.
